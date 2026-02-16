@@ -5,7 +5,7 @@
 
 //INFO:
 
-// This repository includes the source code (.rkt file) and the AI LLM logs(.txt file).
+// This repository includes the source code (.rkt file) and the AI LLM logs/Code(.txt files).
 
 
 
