@@ -1,0 +1,11 @@
+This was the code generated from Claude AI when I first prompted it for how Racket is structured: 
+
+(define (simplify expr)
+  (cond
+    [(number? expr) ...]  ; base case
+    [(symbol? expr) ...]  ; base case (variable)
+    [(list? expr) ...]    ; recursive case - apply rules
+    ))
+
+
+I used this as a base to create and build upon the four functions fold, reduce, canonical form, and simplify.
